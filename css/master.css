@@ -1,0 +1,185 @@
+body, html {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-family: "apercu", sans-serif;
+  text-align: center;
+  color: #150A1F;
+}
+
+h2 {
+  font-family: "apercu", sans-serif;
+  font-size: 2.5rem;
+  text-align: center;
+  color: #150A1F;
+}
+
+h3 {
+  font-family: "apercu", sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+  color: #150A1F;
+}
+
+p {
+  font-family: "apercu", sans-serif;
+  text-align: center;
+  color: #150A1F;
+  line-height: 2;
+}
+
+hr {
+  color: #8949C5;
+  width: 100%;
+  border: 2px solid;
+  border-radius: 2px;
+  margin: 0 auto;
+}
+
+a {
+  color: #8949C5;
+  text-decoration: none;
+}
+
+.top-container {
+  background-color: #150A1F;
+  height: 100%;
+}
+
+.mainlogo {
+  height: 200px;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  top: 35%;
+}
+
+.title {
+  color: #FFFFFF;
+  font-size: 5rem;
+  font-weight: 900;
+  line-height: 50%;
+  margin: 0;
+  text-align: center;
+  position: relative;
+  top: 60%;
+}
+
+.subtitle {
+  color: #FFFFFF;
+  font-size: 2rem;
+  font-weight: 100;
+  text-align: center;
+  position: relative;
+  top: 60%;
+}
+
+.profile {
+  width: 600px;
+  margin: 50px auto;
+}
+
+.profilepic {
+  border-radius: 100%;
+  height: 200px;
+  display: block;
+  margin: auto;
+  background-color: #8949C5;
+}
+
+.profilepic:hover {
+  background-color: #88F758;
+}
+
+.skilltitle {
+  color: #88F758;
+}
+
+.pen, .brackets, .drums, .note {
+  display: block;
+  margin: 0 auto;
+  width: 10%;
+}
+
+.skill-row {
+  width: 600px;
+  margin: 50px auto;
+}
+
+.contact-me {
+  width: 600px;
+  margin: 50px auto;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: "apercu";
+  color: #88F758;
+  font-size: 2rem;
+  background: #8949C5;
+  padding: 10px 20px 10px 20px;
+  display: block;
+  margin: 50px auto;
+  width: 180px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.btn:hover {
+  text-decoration: none;
+  background: #4F2A72;
+  color: #88F758;
+}
+.bottom-container {
+  background-color: #150A1F;
+}
+
+.footer-link {
+  color: white;
+  display: block;
+  padding: 40px 0 0 0;
+  text-decoration: underline;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 1.5rem;
+}
+
+.footer-link:hover {
+  color: #88F758;
+}
+
+.bottomlogo {
+  height: 50px;
+  display: block;
+  margin: 0 auto;
+  padding: 70px 0 0 0;
+
+}
+.copyright {
+  color: white;
+  display: block;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.copyright:hover {
+  color: #88F758;
+}
+
+
+
+/* COLOURS
+#FFFFFF
+#F1FEEC
+#B9FA9E
+#88F758
+#EBE0F5
+#8949C5
+#4F2A72
+#150A1F
+*/
